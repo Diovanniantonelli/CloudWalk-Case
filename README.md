@@ -75,6 +75,5 @@ Risk & Data Enthusiast | CloudWalk Case Challenge
 
 ## 📬 Contact
 
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: [https://linkedin.com/in/seu-perfil](https://linkedin.com/in/seu-perfil)  
-- 🐙 GitHub: [https://github.com/seuusuario](https://github.com/seuusuario)
+- 📧 Email: dioantonellias@gmail.com
+- 🐙 GitHub: [https://github.com/Diovanniantonelli)
