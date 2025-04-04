@@ -69,11 +69,11 @@ Output is saved to a new file: `Transactions_with_flags.xlsx`
 ## 👤 Author
 
 **Diovanni Antonelli**  
-Risk & Data Enthusiast | CloudWalk Case Challenge
+Risk & Data Analyst | CloudWalk Case Challenge
 
 ---
 
 ## 📬 Contact
 
 - 📧 Email: dioantonellias@gmail.com
-- 🐙 GitHub: [https://github.com/Diovanniantonelli)
+- 🐙 GitHub: https://github.com/Diovanniantonelli
