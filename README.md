@@ -3,6 +3,12 @@
 This repository contains the complete solution for the CloudWalk Risk Analyst challenge. It includes data analysis, visualization, a fraud detection strategy, and a working anti-fraud simulation engine based on historical transaction data.
 
 ---
+## 📦 Libraries Used
+
+Make sure you have the following Python libraries installed:
+
+```bash
+pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
 
 ## 📁 Folder Structure
 
