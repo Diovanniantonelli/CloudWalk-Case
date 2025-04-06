@@ -9,6 +9,7 @@ Make sure you have the following Python libraries installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn openpyxl
+```
 ---
 
 ## 📁 Folder Structure
